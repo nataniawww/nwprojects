@@ -123,5 +123,7 @@ Ball Sort Game is a simple, self-explanatory game where the user aims to sort th
   - **Behavior:** Verifies that a move is invalid when the source tube is empty, the destination tube is full, or the source tube is the same as the destination tube.
 
 ---
+### Contact
 
+For any questions or further information, please contact Natania Wong at [natania.wong@berkeley.edu](mailto:natania.wong@berkeley.edu).
 
